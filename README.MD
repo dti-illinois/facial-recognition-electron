@@ -2,8 +2,7 @@
 
 Desktop application for facial recognition project. The purpose of this project is to provide a proof of concept for using facial recognition. Some use cases include automatically taking class attendance. The project is built by doing face detection locally in the browser. It sends the detected faces to the backend which calls the AWS Rekognition service to perform the face recognition and sends the response back to the user. The client is browser based and works in all major browsers as well as mobile.
 
-<img src=".github/Face_Recognition.png" alt="Face Rekognition Page"/>
-<img src=".github/Add_Face.png" alt="Add Face Page"/>
+<img src="static/Face_Recognition_Desktop.png" alt="Face Rekognition Page"/>
 
 ## Getting Started
 
