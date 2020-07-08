@@ -1,0 +1,16 @@
+{
+  "name": "arcfacialrecognitionelectron",
+  "version": "1.0.0",
+  "description": "Desktop app for arc facial recognition project",
+  "main": "main.js",
+  "dependencies": {
+    "bower": "^1.8.8",
+    "electron": "^8.2.3",
+    "jquery": "^3.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Abhinav Tekulapally"
+}

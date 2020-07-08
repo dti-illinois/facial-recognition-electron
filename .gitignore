@@ -1,0 +1,5 @@
+node_modules/
+bower_components/
+ArcFacialRecognition-darwin-x64/
+.vscode/
+.DS_Store
