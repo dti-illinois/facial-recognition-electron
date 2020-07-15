@@ -13,8 +13,8 @@ These instructions will get you a copy of the project up and running on your loc
 * Need to have python3 and pip3 installed.
 * AWS Credentials with access to the AWS Rekognition APIs
     * Follow instructions at [AWS Rekognition CLI Setup](https://docs.aws.amazon.com/rekognition/latest/dg/setup-awscli-sdk.html) and complete up to step 2
-* If not already created, create an AWS Rekogniton collection 
-    * Follow instructions at [AWS Rekogniton Create Collection](https://docs.aws.amazon.com/rekognition/latest/dg/create-collection-procedure.html)
+* If not already created, create an AWS Rekognition collection 
+    * Follow instructions at [AWS Rekognition Create Collection](https://docs.aws.amazon.com/rekognition/latest/dg/create-collection-procedure.html)
 
 ### Installing
 
