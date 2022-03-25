@@ -5,7 +5,7 @@
   "main": "main.js",
   "dependencies": {
     "bower": "^1.8.8",
-    "electron": "^8.2.3",
+    "electron": "^13.6.6",
     "jquery": "^3.5.0"
   },
   "devDependencies": {},
